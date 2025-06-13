@@ -1,0 +1,11 @@
+feedback_id,sentiment_score,sentiment_label
+1,0.9377,Positive
+2,0.3182,Positive
+3,0.4767,Positive
+4,0.7889,Positive
+5,-0.6862,Negative
+6,0.5994,Positive
+7,-0.1027,Negative
+8,0.128,Positive
+9,0.5719,Positive
+10,0.5719,Positive
