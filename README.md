@@ -66,10 +66,9 @@ scalable-sentiment-analysis-pipeline/
 ## 📊 Sample Insights
 
 - Bar charts showing count of each sentiment
-- Optionally: word clouds or top keywords per sentiment
 - Filtered views for exploring actual reviews
 
-_(You can insert a screenshot here if you have one!)_
+
 
 ---
 
